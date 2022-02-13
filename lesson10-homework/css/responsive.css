@@ -1,0 +1,782 @@
+@media (max-width: 1535px){
+	.order-call{
+		margin-left:25px;
+	}
+}
+
+@media (max-width: 1517px){
+	.order-call{
+		margin-left:16px;
+	}
+	.link-div .fa{
+		margin-right: 10px;
+	}
+}
+
+@media (max-width: 1340px){
+    .chair-img-div .chair-img-context h1{
+        font-size: 42px;
+    }
+}
+
+@media (max-width: 1220px){
+	.chair-img-div h1 {
+    	margin: 25px 0;
+    }
+    .chair-img-div p {
+    	margin: 25px 0;
+    }
+    .chair-img-div button, .address-div button {
+    	padding: 10px 23px 10px 23px;
+    }
+}
+
+@media (max-width: 1200px){
+    .chair-img-div .chair-img-context h1{
+        font-size: 38px;
+    }
+    footer .footer-adress{
+        font-size: 12px;
+    }
+    footer .footer-top{
+        padding: 30px 0;
+    }
+    footer .link-div .fa{
+        font-size: 24px;
+    }
+    .gifts-address-div{
+        margin-top: 85px;
+    }
+    section{
+        padding-bottom: 105px;
+    }
+    .gifts-div, .address-div {
+        padding: 20px 25px;
+    }
+    .gifts-div h4, .address-div h4 {
+        margin-bottom: 20px;
+        font-size: 17px;
+    }
+    .gifts-div p, .address-div p {
+        margin-bottom: 20px;
+    }
+    .gifts-div button img{
+        width: 110px;
+    }
+    .address-div button {
+        padding: 8px 23px 8px 23px !important;
+    }
+
+}
+
+@media (max-width: 1160px){
+	/*.chair-img-div {*/
+    	/*height: 504px;*/
+	/*}*/
+
+	/*.card-container .card {*/
+    	/*padding: 6px 2px;*/
+	/*}*/
+	/*.card-container .card img {*/
+    	/*width: 80px;*/
+    /*}*/
+    /*.card-container .card p {*/
+    	/*width: 150px;*/
+    	/*font-size: 11px;*/
+    	/*line-height: 14px;*/
+	/*}*/
+	/*.card-container .card h3 {*/
+    	/*margin: 9px 0; */
+    	/*font-size: 14px;*/
+    	/*line-height: 15px;*/
+	/*}*/
+
+    /*.card-container .card button {*/
+    	/*margin-top: 0; */
+    	/*padding: 5px 27px;*/
+    	/*font-size: 10px;*/
+    	/*line-height: 13px;*/
+    /*}*/
+
+
+    .special-offers .special-offer-title-cont h3 {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+
+    .special-offer-title-cont img {
+    	width: 125px;
+    }
+
+
+
+    .header-contact, .footer-contact {
+    	margin: 30px 0;
+	}
+}
+
+@media (max-width: 1085px){
+    .chair-img-div .chair-img-context h1{
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 1060px){
+
+	.logo-div img {
+    	padding: 10px 10px 10px 0;
+	}
+
+	.logo-div h2 {
+    	font-size: 30px;
+    }
+
+    .header-phone, .footer-phone,.footer-adress {
+    	font-size: 14px;
+	}
+
+	.order-call button {
+    	padding: 10px 16px 10px 16px;
+	}
+
+	.header-bottom-menu ul li {
+    	padding: 22px 20px;
+    	font-size: 15px;
+	}
+
+	.chair-img-div h1 {
+    	margin: 15px 0;
+    	font-size: 38px;
+    }
+	
+    .chair-img-div p {
+    	margin: 15px 0;
+    	font-size: 12px;
+    }
+
+    .chair-img-div {
+    	height: 470px;
+	}
+
+    .chair-img-div button, .address-div button {
+    	padding: 7px 15px 7px 15px;
+    	font-size: 12px;
+    }
+}
+
+@media (max-width: 1024px){
+	.chair-img-div {
+    	height: 430px;
+	}
+
+	/*.card-container .card img {*/
+    	/*width: 65px;*/
+	/*}*/
+	/*.card-container .card p {*/
+    	/*width: 120px;*/
+    	/*font-size: 9px;*/
+    	/*line-height: 12px;*/
+	/*}*/
+	/*.card h3 {*/
+    	/*margin: 7px 0;*/
+    	/*font-size: 12px;*/
+    	/*line-height: 12px;*/
+	/*}*/
+	/*.card-container .card button {*/
+    	/*padding: 4px 15px;*/
+    	/*font-size: 9px;*/
+    	/*line-height: 12px;*/
+	/*}*/
+
+	.gifts-div h4, .address-div h4 {
+    	margin-bottom: 12px;
+    	font-size: 14px;
+	}
+	.gifts-div p, .address-div p {
+    	margin-bottom: 2px;
+    	width: 150px;
+    	font-size: 9px;
+    	line-height: 12px;
+	}
+
+	.address-div p {
+    	width: 100px !important;
+	}
+
+	.gifts-div form input {
+    	padding: 4px;
+    	width: 180px;
+    	font-size: 10px;
+    	line-height: 16px;
+	}
+
+	.gifts-div button img {
+    	width: 115px;
+	}
+	.address-div button {
+    	padding: 4px 16px 4px 16px !important;
+    	font-size: 10px;
+	}
+
+	.footer-div div {
+    	margin: 13px 0;
+    	font-size: 11px;
+	}
+	.link-div .fa {
+    	padding: 10px 7px;
+    	width: 40px;
+	}
+}
+
+@media (max-width: 1010px){
+    .chair-img-div .chair-img-context h1{
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 995px){
+	.chair-img-div {
+    	height: 350px;
+	}
+    .chair-img-div p {
+        margin: 15px 0;
+        font-size: 11px;
+        width: 200px;
+    }
+    .header-phone, .footer-phone{
+        font-size: 10px;
+    }
+    footer .footer-adress {
+        font-size: 9px;
+    }
+    .order-call button {
+        padding: 10px 14px 10px 14px;
+        font-size: 14px;
+    }
+
+    .header-bottom-menu ul li {
+        padding: 6px 20px;
+        font-size: 14px;
+    }
+    .top-menu ul li {
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .top-menu nav {
+        padding: 0px;
+    }
+    footer .link-div .fa {
+        font-size: 20px;
+    }
+    .link-div .fa {
+         margin-right: 0;
+    }
+    .footer-div-container {
+        padding: 5px 0;
+        background-color: #EFEFEF;
+    }
+    .footer-div div {
+        margin: 11px 0;
+        font-size: 9px;
+    }
+
+    .top-menu,.header-bottom-menu {
+        justify-content: start;
+    }
+}
+@media (max-width: 991px) {
+    .top-menu nav {
+        padding: 7px 12px;
+    }
+    .gifts-div button img {
+        width: 80px;
+    }
+    .gifts-div h4, .address-div h4 {
+        margin-bottom: 11px;
+        font-size: 8px;
+    }
+    .gifts-div form input {
+        padding: 4px;
+        width: 120px;
+        text-indent: 2px;
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .link-div .fa {
+        padding: 7px 7px;
+    }
+    .special-offers .special-offer-title-cont h3 {
+        margin-bottom: 8px;
+        font-size: 17px;
+    }
+    .footer-div div {
+        margin: 10px 0;
+        font-size: 8px;
+    }
+
+}
+
+@media (max-width: 970px){
+    .chair-img-div .chair-img-context h1 {
+        font-size: 25px;
+    }
+    .chair-img-div p {
+        margin: 15px 0;
+        font-size: 9px;
+        width: 180px;
+    }
+    .chair-img-div button, .address-div button {
+        padding: 5px 15px 5px 15px;
+        font-size: 11px;
+    }
+
+}
+
+@media (max-width: 890px){
+	.chair-img-div {
+    	height: 330px;
+	}
+
+	.header-bottom-menu ul li {
+    	padding: 12px 18px;
+    	font-size: 14px;
+	}
+
+	.logo-div h2 {
+    	font-size: 26px;
+    }
+    .logo-div img {
+    	padding: 8px;
+    	width: 70px;
+    }
+
+}
+
+@media (max-width: 850px){
+	.chair-img-div {
+    	height: 300px;
+    }
+    .gifts-address-div{
+        margin-top: 70px;
+    }
+    section{
+        padding-bottom: 80px;
+    }
+    .gifts-div, .address-div {
+    	padding: 15px 20px;
+	}
+}
+
+@media (max-width: 815px){
+    .order-call button {
+        padding: 8px 13px 8px 13px;
+        font-size: 12px;
+    }
+    footer .link-div .fa {
+        font-size: 15px;
+        padding: 7px 3px;
+    }
+}
+
+@media (max-width: 800px){
+	.top-menu ul li {
+    	padding: 9px 10px 9px;
+    	font-size: 13px;
+    }
+    .logo-div h2 {
+    	font-size: 24px;
+    }
+    .chair-img-div {
+    	height: 260px;
+    }
+    .chair-img-div p {
+    	margin: 6px 0 12px;
+    }
+
+    .header-bottom-menu ul li {
+    	padding: 9px 17px;
+    	font-size: 13px;
+    }
+}
+
+@media (max-width: 768px){
+    .order-call button {
+        padding: 8px 13px 8px 13px;
+        font-size: 9px;
+    }
+    .gifts-div button img {
+        width: 40px;
+    }
+    .gifts-div p, .address-div p {
+        margin-bottom: 2px;
+        width: 113px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .gifts-div form input {
+        padding: 2px;
+        width: 100px;
+    }
+    .chair-img-div {
+        height: 210px;
+    }
+    .chair-img-div .chair-img-context h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .chair-img-div p {
+        margin: 10px 0;
+        font-size: 7px;
+        width: 130px;
+    }
+    .chair-img-div button, .address-div button {
+        padding: 3px 10px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 720px){
+	.special-offers-cont {
+    	padding-top: 60px;
+	}
+
+}
+
+@media (max-width: 695px){
+	.special-offers .special-offer-title-cont h3 {
+    	font-size: 19px;
+    }
+}
+
+@media (max-width: 690px){
+    .header-bottom-menu ul li {
+    	padding: 7px 17px;
+    	font-size: 12px;
+	}
+	.logo-div h2 {
+    	font-size: 22px;
+	}
+
+	.top-menu ul li {
+    	padding: 5px 10px 5px;
+    	font-size: 11px;
+	}
+}
+
+@media (max-width: 650px){
+	.chair-img-div button, .address-div button {
+    	padding: 5px 10px;
+    	font-size: 10px;
+	}
+	.special-offers-cont {
+    	padding-top: 45px;
+	}
+}
+
+@media (max-width: 630px){
+	.order-call button {
+    	padding: 7px 9px;
+    	font-size: 11px;
+	}
+}
+
+@media (max-width: 600px){
+	.chair-img-div {
+    	height: 200px;
+	}
+
+	.header-bottom-menu ul li {
+    	padding: 7px 10px;
+    	font-size: 12px;
+	}
+	.link-div .fa {
+    	margin-right: 2px;
+    	padding: 7px 5px;
+    	width: 20px;
+    	font-size: 15px;
+    }
+
+    .gifts-div, .address-div {
+    	padding: 15px 20px;
+	}
+    .gifts-address-div{
+        margin-top: 40px;
+    }
+    section{
+        padding-bottom: 50px;
+    }
+	.address-div {
+    	margin: 40px 0 50px 5px !important;
+	}
+
+    .gifts-address-div{
+        flex-direction: column;
+        align-items: center;
+    }
+
+	.order-call button {
+    	padding: 7px 9px;
+    	font-size: 10px;
+	}
+    .special-offer-title-cont img {
+        width: 70px;
+    }
+}
+
+
+@media (max-width: 580px){
+	.footer-div div {
+    	margin: 8px 0;
+    	font-size: 8px;
+	}
+}
+
+
+@media (max-width: 530px){
+	.header-bottom-menu ul li {
+    	padding: 6px 7px;
+    	font-size: 12px;
+	}
+	.top-menu ul li {
+    	padding: 3px 9px;
+    	font-size: 10px;
+	}
+	.footer-div div {
+    	margin: 7px 0;
+    	font-size: 7px;
+	}
+    .chair-img-div .chair-img-context h1 {
+        font-size: 14px;
+        line-height: 5px;
+    }
+    .chair-img-div p {
+        width: 140px;
+        font-size: 9px;
+        line-height: 14px;
+    }
+    .chair-img-div button, .address-div button {
+        padding: 4px 9px;
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 510px){
+    .card-container{
+        justify-content: center;
+    }
+    footer .link-div .fa {
+        margin-right: 0;
+        padding: 5px 4px;
+        width: 24px;
+        font-size: 13px;
+    }
+}
+
+
+@media (max-width: 500px){
+	.special-offer-title-cont img {
+    	width: 90px;
+	}
+
+	.footer-adress {
+    	font-size: 9px;
+    }
+    .footer-phone {
+    	font-size: 9px;
+	}
+
+	.special-offers .special-offer-title-cont h3 {
+    	font-size: 16px;
+    	margin-bottom: 8px;
+	}
+	.order-call button {
+    	padding: 3px 7px;
+    	font-size: 9px;
+	}
+	.gifts-div p, .address-div p {
+    	margin-bottom: 2px;
+    	width: 162px;
+    	font-size: 10px;
+    	line-height: 13px;
+	}
+    .gifts-address-div{
+        margin-top: 40px;
+    }
+    section{
+        padding-bottom: 10px;
+    }
+
+	.gifts-div, .address-div {
+    	padding: 22px 16px;
+    	width: 70%;
+	}
+
+	.address-div {
+    	margin: 10px 5px 50px 5px !important;
+	}
+	
+	.gifts-div h4, .address-div h4 {
+    	font-size: 16px;
+	}
+
+	.gifts-div form input {
+    	width: 160px;
+    }
+
+	.gifts-div button img {
+    	width: 100px;
+    	margin: 0 14px;
+	}
+	.address-div p {
+    	width: 120px !important;
+	}
+}
+
+@media (max-width: 490px){
+	.order-call button {
+    	padding: 3px 5px;
+    	font-size: 10px;
+	}
+
+	.header-contact, .footer-contact {
+    	margin: 10px 0;
+	}
+
+	.logo-div img {
+    	padding: 6px;
+    	width: 40px;
+	}
+	.logo-div h2 {
+    	font-size: 19px;
+	}
+	.header-bottom-menu ul li {
+    	padding: 6px 6px;
+    	font-size: 10px;
+	}
+	.top-menu ul li {
+    	padding: 2px 5px;
+    	font-size: 8px;
+	}
+	.chair-img-div {
+    	height: 179px;
+	}
+	.chair-img-div p {
+    	width: 150px;
+    	font-size: 9px;
+    	line-height: 16px;
+	}
+	.order-call {
+    	margin-left: 12px;
+	}
+	.chair-img-div button, .address-div button {
+    	padding: 3px 8px;
+    	font-size: 9px;
+	}
+	.chair-img-div h1 {
+    	font-size: 18px;
+    }
+
+}
+
+@media (max-width: 470px){
+	.chair-img-div p {
+    	width: 130px;
+    	font-size: 8px;
+	}
+	.chair-img-div {
+    	height: 160px;
+    }
+
+    .link-div .fa {
+    	margin-right: 2px;
+    	padding: 3px 4px;
+    	width: 10px;
+    	font-size: 11px;
+	}
+	.header-phone, .footer-phone,.footer-adress{
+    	font-size: 8px;
+	}
+	.order-call button {
+    	padding: 3px 5px;
+    	font-size: 9px;
+	}
+	.footer-div div {
+    	margin: 6px 0;
+    	font-size: 6px;
+	}
+}
+
+@media (max-width: 360px){
+	.header-bottom-menu ul li {
+    	padding: 2px 4px;
+    	font-size: 8px;
+	}
+	.top-menu ul li {
+    	padding: 0px 4px;
+    	font-size: 7px;
+	}
+	.order-call button {
+    	padding: 2px 5px;
+    	font-size: 8px;
+	}
+	.order-call {
+    	margin-left: 9px;
+	}
+	.header-contact, .footer-contact {
+    	margin: 6px 0;
+	}
+	.logo-div img {
+    	padding: 6px;
+    	width: 30px;
+	}
+
+	.logo-div h2 {
+    	font-size: 16px;
+	}
+	.chair-img-div {
+    	height: 130px;
+	}
+	.chair-img-div h1 {
+    	font-size: 12px;
+	}
+	.chair-img-div p {
+    	width: 105px;
+    	font-size: 7px;
+    	line-height: 10px;
+	}
+	.chair-img-div button, .address-div button {
+    	padding: 0px 5px;
+    	font-size: 7px;
+    }
+}
+
+@media (max-width: 340px){
+	.chair-img-div p {
+    	width: 95px;
+    	font-size: 6px;
+    	line-height: 10px;
+	}
+	.chair-img-div {
+    	height: 120px;
+	}
+	.header-bottom-menu ul li {
+    	font-size: 7px;
+	}
+
+	.order-call {
+    	margin-left: 7px;
+	}
+
+	.header-phone, .footer-phone {
+    	font-size: 7px;
+	}
+	.order-call button {
+    	padding: 2px 4px;
+    	font-size: 7px;
+	}
+	.top-menu ul li {
+    	padding: 0px 2px;
+    	font-size: 6px;
+	}
+
+}
